@@ -77,7 +77,7 @@ public class Game {
         this.genre = genre;
     }
 
-    public String getplatforms() {
+    public String getPlatforms() {
         return platforms;
     }
 
